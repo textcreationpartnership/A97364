@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius cambro-Britannus, the Brittish mercury, or, The Welch diurnall communicating remarkable intelligences and true newes to awle the whole kingdome...  [11th-20th November 1643]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97364</idno>
+            <idno type="STC">Thomason E76_14</idno>
+            <idno type="STC">ESTC P1079</idno>
+            <idno type="EEBO-CITATION">53403882</idno>
+            <idno type="OCLC"> 53403882</idno>
+            <idno type="VID">155539</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155539)</note>
+            <note>Images scanned from microfilm: (Early English books, Thomason Tracts ; 13:E.76[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius cambro-Britannus, the Brittish mercury, or, The Welch diurnall communicating remarkable intelligences and true newes to awle the whole kingdome...  [11th-20th November 1643]</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London:</pubPlace>
+                  <date>[1643].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Weekly publication.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155539:1"/>
+            <pb facs="tcp:155539:1" rendition="simple:additions"/>
+            <p>Mercurius Cambro-Britannus, <hi>THE BRITTISH MERCURY, OR THE VVELCH DIURNALL.</hi>
+            </p>
+            <p>
+               <hi>Communicating remarkable</hi> Intelligences, <hi>and true Newes to awle the whole Kingdome, from Friday</hi> November <hi>11, till Munday the 20. 1643.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1.</hi> Her tell of horrible creat Beaſt ſeen falling te Mountaine of Wales, te laſt creat light Night.</item>
+               <item>
+                  <hi>2.</hi> Her told very true ſtory of Carmarthanſhires paſſages, and of <hi>Merlyns</hi> Pro<g ref="char:EOLhyphen"/>phecies.</item>
+               <item>
+                  <hi>3.</hi> Her come fery late from Sir <hi>William Wallers</hi> Army, and tell her all the pro<g ref="char:EOLhyphen"/>ceedings at Bazing-Houſe.</item>
+               <item>
+                  <hi>4.</hi> Her ſhow fery feelingly that all the hearts in Flintſhire which before were hearts of Flint to te Parliament, be now become ſoft to them, and ſupple as teir owne gloves.</item>
+               <item>
+                  <hi>5.</hi> Her tell certaine truth of a Mare in Pembrokeſhire that ſold a Coult with ſhooes on its feet, which Coult ere be long, her will bring up to London.</item>
+               <item>
+                  <hi>6.</hi> Her be hartily ſorry that her muſt ſpeak the truth, and tell that the burning of Okingham &amp;c. was occaſioned by a Commiſsion ſigned with <hi>C.R.</hi>
+               </item>
+               <item>
+                  <hi>7.</hi> Her make Declarations of te cood Proteſtants in Ireland, and would not ſerve Sir <hi>Ralph Hopton</hi> againſt te Parliament.</item>
+               <item>
+                  <hi>8.</hi> Her ſhow you all the marks of te old Great Seale, and Her tell you of the Ver<g ref="char:EOLhyphen"/>tue of te new.</item>
+               <item>
+                  <hi>9.</hi> Her would have her know te creat paines her take in comming from Wales to acquaint you with her true Intelligence, and her beſeech you therefore to take te paines to looke it over.</item>
+            </list>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON, <hi>Printed by</hi> Bernard Alſop, <hi>Novemb. 20. 1943.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155539:2"/>
+            <pb n="1" facs="tcp:155539:2"/>
+            <head>THE BRITTISH MERCURY, COMMUNICATING Remarkable <hi>Intelligences,</hi> and true <hi>Newes</hi> to awle the whole Kingdome, from Friday <hi>November</hi> 11. till <hi>November</hi> 20. 1643.</head>
+            <p>HEt hath waygated over all Walles, ſince her ſent you in her laſt News, and her is ſince ſo pig with her new Remonſtrances, her deliberations, and conſiderations, that her be ſcurvily afraid (if any true Brettayn will put her thought in preſſe) and give tem to her countrey men te Hawkers, they will ſell themſelves awle like Tevils by two farding, tree farding a peece, will prove a banck of good newes for awle te Nations in te Urlds.</p>
+            <p>Her have terefore bin prodigally carefull, wat with te cornes on te feet of her ſtaffe, and te cornes on te toes of her feet to come now to you with creat deale paine, and though her feet be creat deale weary, her aſſure you, her prayne is good and true.</p>
+            <p>Firſt, know he be mannerly and wiſe, for her ſcorne to tell her beſt newes at firſt, or wat was the miſchance that came to her Daughter <hi>Thomſin</hi> dancing at te May-pole on a Sunday at Abercover, or when <hi>Iinkin</hi> up <hi>Vaughan</hi> with creat noyſe and threatning, ſtole away her prowne bill, and go<g ref="char:EOLhyphen"/>ing home, put her into a yellow feare, which falling from behind, came trick<g ref="char:EOLhyphen"/>ling downe with creat haſt. Her come laden with freſher newes from all te parts of Chriſtendome in Wales. Her begin firſt with Flintſhire. Her ſay tat all the Hearts of Wales in that countrey be awle now as ſoft as te fery moul<g ref="char:EOLhyphen"/>ten wax, and pecauſe tey are ſo often vexed with te ſteele of te Cavaliers, her be awle reſolved to lend no more fire to burne her owne countrey and her pedigrees, but te Parliament ſhall find them all as ſupple as teyr own chivrell
+<pb n="2" facs="tcp:155539:3"/>gloves. Her was in Carmarthenſhire. Was all knew te prave bloud of Prophet <hi>Merlyn,</hi> her confeſſe, her found tem all naught tere, Her all dranke tere for te Prince of Wales, yet her muſt know (ſince good Metheglin begette cood ſpirit) her come at laſt to the Parliament, and by and by her be awle againe in remorſe, and either ſtand for tem or againſt them. Was creat gate open, and by and by was creat gate ſhut, and then was creat gate open againe. Was all fery unruly, untill up <hi>Sampſon</hi> up <hi>Price,</hi> up <hi>Hercules</hi> up <hi>Owen,</hi> up <hi>Hector</hi> up <hi>Llewellyn,</hi> up Prince <hi>Arthur</hi> up <hi>Howell,</hi> began to recite to her owne countrey<g ref="char:EOLhyphen"/>men ſome of her creat Prophet <hi>Merlyns</hi> own Prophecies, if her can remember them you ſhall have them preſently, it was ſpoke (as her conceive) of her pre<g ref="char:EOLhyphen"/>ſent times.</p>
+            <q>
+               <l>With fire and blood this Age is coverd o're,</l>
+               <l>(One thouſand and ſix hundred left in ſcore)</l>
+               <l>The Parliament in forty three that ſtood</l>
+               <l>Shall ſhake Church, Churches, and the Roman Rood.</l>
+            </q>
+            <p>Her would faine know of all her Malignants, if Prophet <hi>Merlyn</hi> was true Prophet or no, her told beſides tat all te Provinces in Wales, and all to high Hill, ſhould ſubmit themſelves and make legges to te quiet vales, and to te Peace, which te good and creat Parliament would make in England. Her told us beſides of many ſhrewd and happy things which ſince have come to paſſe. <hi>Merlyn</hi> was <hi>Merlyn</hi> beleive it. But te laſt week as her paſt to countries for her recreation, and your information; Her mette with ſhrewsbury ſhentle<g ref="char:EOLhyphen"/>man, her fery owne cood Coſin, who told her (her know not what of te Lord <hi>Capell,</hi> and tat te creat Towne of Shrewsbury, and all te Engliſh lay on te Marches of Wales, were fery ſick of te Army diſeaſe, and had gotte creat ſhaking Ague, and were like to dye of creat miſchiefe, which te little hun<g ref="char:EOLhyphen"/>gry wormes had brought upon tem; And tat tere was no hope that te creat Towne of Shrewsbury ſhould be releived, and tat te hearts of our countrey<g ref="char:EOLhyphen"/>men ſhould be quieted, unleſſe that her Lord <hi>Little-ton</hi> ſhould come to pacifie her angry minds, for her did love her fery well before, but ſince her have renounced te faith of true Brittiſh ſhentleman, and have uſed the creat Seale (by Gar (her knowes) to fery bad uſes) her have loſt all hearts in Wales and England, and her know Chriſendome fery well, for her hath bin in her creat Grand-fathers chine in Holland, when te pigge to live in the bad Urld, her urind forth halfe of te great ſpirit of her Nephew, to come at the ſiege of Oſtend.</p>
+            <pb n="3" facs="tcp:155539:3"/>
+            <p>Her delights not much in her owne pedegree though it bee fery famous, her have not leaſure to tell tat which would fill te cheekes of Fame. Her comes onely with petty things, as te newes of Peace or te peace of Religion, or ſo which her knowes fery well tat no Welch Shentleman of her owne Nation with te King doe either much deſire or expect, for her in Wales bee ſcouring of her old Murrions with aſhes, and running over their ruſty blades with Sea<g ref="char:EOLhyphen"/>cole duſt, which by the care and thrift of ſome of her forefathers was provi<g ref="char:EOLhyphen"/>ded for te fodder of tis winters chimneyes. Yet her be ſo bold to adviſe tem to take notice, tat though awle her Bedlam Coſins in Pembrokeſhire and in Tenbigh be ſo mad to forſake te Parliament, teir friends, and liberty, and run to cover temſelves under te wings of te Malignants, who are ready to devoure tem, yet her is ferily perſwaded in ſoule and conſcience, her will awle have te leiſure to repent tis ill bargaine contracted with te Cavalliers in Ireland, and tat te many Regiments which are now comming from Ireland to helpe his Majeſty of England, will be a burden (if beaten by ill windes into our ſhores) too unſupportable for her and awle her good kindred to endure. Her tere<g ref="char:EOLhyphen"/>fore in good time adviſe thoſe her good Coſins of Wales to deſiſt; tat is in plaine Welch to ſhiet off awle toſe pad neighbours who wiſh ſo ill to te ad<g ref="char:EOLhyphen"/>vancement of Wales, or te pad behoofe of any who are of <hi>Pendragons</hi> gene<g ref="char:EOLhyphen"/>ration.</p>
+            <p>Her was peſides in Angleſey, where whatſoever lookes her Countrimen have, tey have hearts for te Parliament, and will be ready on any advantage to teſtifie her moſt humble accommodations, obligations, and awle te grada<g ref="char:EOLhyphen"/>tions of trueſt devotion to them.</p>
+            <p>But harke you what: It was her fortune to come into Monmouth, and to viſit Ragland Caſtle. Her found her owne Countrymen fery deſolate and few in number. Her was bold to aske the cauſe. Her kinde Couſins awle te Shen<g ref="char:EOLhyphen"/>tlewomen told her, tat te good Lord of Woreſter ſince he was made Marquis. was ſo full of te bloody warre, tat tere was no ſheeſe, or Mouſe to feed on tat ſheeſe in awle his Caſtle; her had hope of ſome tenants, but not onely tere but in Glamorganſhire her can finde nether heart nor tongue to bid welcome, nor bone nor bit to give the Cavalliers a breakfaſt.</p>
+            <p>Her now like to Welch Divines, that make teyr prayer in te middle of teyr Sermon, will begin to make her Apology in te middle of her Booke. And in ſober ſadneſſe, it may ſeem wondrous matter in teſe ſad times, that her dare appeare in Print every week, (for feare of te which, her hath this week adjourned her Welch Merury from Saturday to Munday, for though her be a Mercury (her will nere as her can) keep her conſtant ſeaſons and revoluti<g ref="char:EOLhyphen"/>ons, moving alwayes in te Orbe of honeſt Mirth, and next to Truth, for
+<pb n="4" facs="tcp:155539:4"/>though her ſeem ſometimes merry, yet her may be true and and ſerious in her Reſolutions. And why not, her pray you? marke and obſerve her intelligence according to teir order.</p>
+            <p>Her be glad in the firſt place that ſome be wiſer then ſome, was proverbe true, for as her Countrey-men hath made Declarations of her wiſdome by leaving te Kings Army, ſo te Iriſh forces peing creat thouſands, have made manifeſtations, and reſolutions, tat tey will never have copulation with Sir <hi>Ralph Hopton</hi> or any other againſt te Parliament, and thereupon they are gone to Bathe, and ſent to the prave Sir <hi>William Waller</hi> for Officers to goe in and out before them. Was no doubt terefore but awſe te Malignants will goe Weſtward, and downe te wind.</p>
+            <p>Her was heare of a creat Houſe called Bazing Houſe, pigger then all her Welch Tenements; and Sir <hi>William Waller</hi> layd cloſe ſieges to it, and ſent out a number to hunt for te Malignant in te Kings Parke neate Bazing Houſe, and to chaſe tem up and downe te Parke, as her doe te running Wat, was re<g ref="char:EOLhyphen"/>ported tat his good Vrſhip had taken te Out-works, but her ſure was very hot fervice te laſt Sunday night, and te laſt Munday was hurt creat many men kill ſome, but Sir <hi>William Waller</hi> will take a time ere it be long, either by night or by day, to be eaven with them.</p>
+            <p>Te creat Houſe of Bazing is mightily haunted with malignant ſpirits, and teyr chiefe is Captaine <hi>Royden.</hi> As for te Lieutenant Colonel! <hi>Mr. Peake,</hi> that had creat hope py his Valour to peake himſelfe at leaſt into a Knight, was killed dead as doore nayle, and was peake into her grave.</p>
+            <p>Her country-man ap <hi>Powell</hi> told her that her country-man told her coun<g ref="char:EOLhyphen"/>try-man, and her told her Brittiſh Mercury tat te North was in cood man<g ref="char:EOLhyphen"/>ners and conditions, and without complements, the Truth is tat a great part of te Earle of Mancheſters horſe is quartered about Newarke, and have dri<g ref="char:EOLhyphen"/>ven away all te Cattell, te beaſt, ſheep, and Oxen, and lowing Cow towards Boſton, and Lincolne, and was make Newarke and all te Inhabitants fery thin, and look like <hi>Mr. Rawbones.</hi> And Sir <hi>Thomas Fairfax</hi> was gone with thirty creat Troupes of Horſe into Nottinghamſhire, and was put New<g ref="char:EOLhyphen"/>arke and Newcaſtle into ſuch terrours, tat her Newcaſtle will be as Sir <hi>Iohn Old-caſtle</hi> that could not ſtand it out to make his water againſt te wall, but dribbled in her breeches, and her verily believe tat te malignants will runne temſelves into a looſeneſſe of ſmelling pudder when they find themſelves ſo hard beſet.</p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:155539:4" rendition="simple:additions"/>
+            <p>Her asked her Coſin Morgan, a man of pigge credit, and rich in bearded Leeke, and bearded Coate, and her told her, and her ſwore to her to by Saint Taffy, that tere was create hope tat te Parliament forces was have pig ſucceſſes, and tat her Garriſon at Plimmouth have pravely defended temſelves againſt te beſiegers, and have come out againſt te enemy and peat tem from teyr out<g ref="char:EOLhyphen"/>workes, and have received te money ſent from te Praliament, tis was fery good, te Gold and te Money was make her fery valiant I warrant, for gold, ſilver and Metheglin are te three Soules that doe make her Country-men have both being and vallour.</p>
+            <p>But her will tell her memorable news from Glamorganſhire, was creat light night was ſeene not long agoe over awle Wales, and was ſo pright her be<g ref="char:EOLhyphen"/>lieve in her fery conſcience it was not night, but day light ſicke, and her Coſin up Ienkin was looking in her proſpective-glaſſe to te creat high hill in Mon<g ref="char:EOLhyphen"/>mouth-ſhire to ſee what te matter was, and juſt here upon te ſomnet of all the hill, where it verged downe in the ſteepeſt Precipice, and looked point-blanck towards Hell, her ſaw creat Beaſt falling downe never to riſe againe, and te hills round about did ſhake for feare, this was certainely about mid-night (as her can pring very good witneſſe) and yet te light was ſo creat that her Coſin ſo farre off could ſee fery apparently juſt as it was, te creat Beaſt falling downe, and te creat Collar that. was about its neck, and did read the letters that was on the Collar, which was <hi>ANTICHRISTO.</hi>
+            </p>
+            <p>Her have alſo ſome other ſtrange newes to acquaint you with, her ſhall onely deſire her may be priviledged to ſpeake te truth which is: That in Pen<g ref="char:EOLhyphen"/>brokeſhire as her was comming up to acquaint you wit her Intelligences, her ſaw in te way behind the hedge a Mare foling of a Coult, her ſtaid a creat while to fee what Nature would ſend, at length her kenned prave new Colt come into te world, with new ſhooes on its feet, and the Nailes ſo cloſely and handſomely clinched, that her ferily beleeve, tat the beſt Farrier in the Vrld could not have ſet them better on. When ever te Colt grow a little older, her really intend to bring it up to London to make a ſhow, and to get Portion by it for her daughter Thomaſin, who (as her told you a little before) by great miſchance was great with child, yet her muſt nor diſſemble te feares which by reaſon of this Portentous birth, her Nation is in, <hi>viz.</hi> that the ſad imployment for horſe and the Iron age of Warre will continue.</p>
+            <p>Here by the way, heare one thing more that doth make her heart tremble and her eyes ſwimme in teyr owne teares, and tat was that at the firing and burning of Okeingham in Berkeſhire her thinke it is, her is ſure out tis in
+<pb n="6" facs="tcp:155539:5"/>England, one of the Cavallier Captaines told te inhabitants tat he was come to fire te Towne, and putting his hand into his poke, he pulled out his Confeſ<g ref="char:EOLhyphen"/>ſion which was ſigned with two great Letters <hi>C. R.</hi> was ſtrange thing tat her King ſhould put her hand to ſuch a fiery Confeſſion. Her ſelfe was alſo fear<g ref="char:EOLhyphen"/>full, and ſo was her father before her, to put her hand to Bond, or Pill, or any Obligation, but te King (and her pe ſorry for it) is perſwaded againſt his heart to have a hand in te fiting of Townes, and te deſtruction of his owne ſubjects.</p>
+            <p>Her had almoſt quite fogot to tell her te Remarkable Paſſages which her ſaw at Bath, which was tat creat many Engliſh Proteſtants are come out of Ireland, and quartered tere in tat City. Sir <hi>Raph Hopton</hi> ſent tem from Briſtoll ſome barrels af Beere, and halfe a Crowne a piece in money to drinke cood healths unto te King, and to make tem ſtand for te honour of te Crowne, but tey had more wit in teir owne crowne ten tey received profit by Sir <hi>Ralph Hoptons</hi> halfe Crowne, and returned anſwer, tat tey would not make Warre and fight againſt te Parliament, but was come to fight againſt te Papiſts, where<g ref="char:EOLhyphen"/>upon Sir <hi>Ralph Hopton</hi> crew into creat diſcontent, and ſent tem command to deliver up teir Armes, but tey would not yeeld unto it, but will prove as true as her owne Countrimen of Wales, in ſtanding with their armes and legges for te Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
